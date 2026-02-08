@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ### Step 5: Run the Application!
 ```bash
-python app.py
+python app_fixed.py
 ```
 
 Then open your browser and go to: **http://localhost:5000**
